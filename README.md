@@ -19,7 +19,7 @@ Suggests tailored exercises, videos, or challenges, and includes multilingual su
 5. Escrow Payments for Trust & Accessibility
 Families pay for sessions through escrow to ensure transparency and fairness.
 Funds are released to therapists after successful sessions, verified by the AI system and parents' feedback.
-The payment is 50ksh per evry fifty sessions. The first 50 sessions are free
+The payment is 50ksh per every fifty sessions. The first 50 sessions are free
 
 ## Tech Stack
 
